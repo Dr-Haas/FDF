@@ -19,7 +19,7 @@ Chaque nombre correspond à un point :
 ![alt tag](/screenst/screen_shot1.png)
 
 #Basic
-![alt tag](/screenst/screen_shot2.png)
+![alt tag](/screenst/screen_shot3.png)
 
 #Basic Scalling
-![alt tag](/screen/screen_shot3.png)
+![alt tag](/screenst/screen_shot2.png)
